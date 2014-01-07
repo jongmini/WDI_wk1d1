@@ -1,7 +1,7 @@
 #jongmini/code/guess.rb
 
 #lab assignment 1
-#  xx
+#  random number generator
 
 puts "Guess a number between 1 and 100"
 num = gets.chomp.to_i
