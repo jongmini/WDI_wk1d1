@@ -13,3 +13,6 @@ end
 
 
 puts "*"*(max.length.to_i + 4)
+
+#HAHAHA
+#SECRET COMMENT!
